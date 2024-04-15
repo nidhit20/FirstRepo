@@ -1,3 +1,3 @@
 # FirstRepo
 for learning github
-author - nidhi
+author - nidhiclear
